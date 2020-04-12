@@ -1,6 +1,6 @@
 {
   "name": "node-qiniu-sk",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "description": "Qiniu Resource Storage SDK for Node.js",
   "main": "index.js",
   "directories": {
